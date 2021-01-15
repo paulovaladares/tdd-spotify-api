@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.com/paulovaladares/tdd-spotify.svg?branch=master)](https://travis-ci.com/paulovaladares/tdd-spotify)
 
+[![Coverage Status](https://coveralls.io/repos/github/paulovaladares/tdd-spotify/badge.svg?branch=master)](https://coveralls.io/github/paulovaladares/tdd-spotify?branch=master)
+
 A wrapper to work with the [Spotify Web API](https://developer.spotify.com/web-api/).
 
 ## Browser Support
